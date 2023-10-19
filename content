@@ -1,0 +1,26 @@
+Inheritance:
+The process of acquiring properties from one class(parent) to another class(child) is called inheritance.
+It is mainly used for code re usability.
+To implement multiple inheritance we use interfaces. We need to use implemets key word along with interfaces
+Super key word is used to provide inheritance.
+
+Encapsulation :
+The process of wrapping up of variables and methods into single unit is called encapsulation.
+Mainly it is used for hiding the data from out  side of the world.
+This is achieved by getters and setters.
+
+
+Interface:
+Interface is a blue print of class. 
+The interface tells what to do but not how to do.
+Class is a implementor for interface.
+Undefined or un implemented methods are called abstract methods.
+
+Abstract classes:
+Abstract classes are the classes which contain abstract methods.
+We can use only extends key word for abstract class.
+
+Abstraction:
+ The process of hiding the implementation details and providing only functionality to the user is called abstraction.
+
+
